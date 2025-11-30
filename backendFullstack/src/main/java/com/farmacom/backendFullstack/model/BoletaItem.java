@@ -33,5 +33,5 @@ public class BoletaItem {
 	public BigDecimal getSubtotal() {
 		return precioUnitario.multiply(BigDecimal.valueOf(cantidad));
 	}
-
+  // prueba
 }
